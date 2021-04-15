@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula 06/Aula 06.iml" filepath="$PROJECT_DIR$/Aula 06/Aula 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diego/Diego.iml" filepath="$PROJECT_DIR$/Diego/Diego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dougla e Jr/Dougla e Jr.iml" filepath="$PROJECT_DIR$/Dougla e Jr/Dougla e Jr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ED.iml" filepath="$PROJECT_DIR$/ED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvertonLucas/EvertonLucas.iml" filepath="$PROJECT_DIR$/EvertonLucas/EvertonLucas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JoaoLucas e Joao Vitor Dala/JoaoLucas e Joao Vitor Dala.iml" filepath="$PROJECT_DIR$/JoaoLucas e Joao Vitor Dala/JoaoLucas e Joao Vitor Dala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MateusOtavio/MateusOtavio.iml" filepath="$PROJECT_DIR$/MateusOtavio/MateusOtavio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PedroSamuel/PedroSamuel.iml" filepath="$PROJECT_DIR$/PedroSamuel/PedroSamuel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RafaelKenedy/RafaelKenedy.iml" filepath="$PROJECT_DIR$/RafaelKenedy/RafaelKenedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RafaelaThon/RafaelaThon.iml" filepath="$PROJECT_DIR$/RafaelaThon/RafaelaThon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thiago/Thiago.iml" filepath="$PROJECT_DIR$/Thiago/Thiago.iml" />
+      <module fileurl="file://$PROJECT_DIR$/henriLucasLange/henriLucasLange.iml" filepath="$PROJECT_DIR$/henriLucasLange/henriLucasLange.iml" />
+    </modules>
+  </component>
+</project>
